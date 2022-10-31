@@ -1,0 +1,19 @@
+﻿@model KatmanAdmin.Entity.Entities.Category
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Yeni Kategori</h1>
+<br />
+@using (Html.BeginForm("Add", "Category", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Kategori Adı")
+        @Html.TextBoxFor(x=>x.Name)
+        @Html.ValidationMessageFor(x=>x.Name)
+        <br /><br />
+        <button class="btn btn-outline-success">Ekle</button>
+    </div>
+}
+

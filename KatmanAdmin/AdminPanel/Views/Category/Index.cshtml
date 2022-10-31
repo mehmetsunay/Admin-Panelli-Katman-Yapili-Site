@@ -1,0 +1,32 @@
+﻿@using KatmanAdmin.Entity.Entities;
+@model List<Category>
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<h1>Kategoriler Listesi</h1>
+
+<a href="/Category/Add" class="btn btn-outline-info mb-2">Yeni Kategori Ekle</a>
+
+<table class="table table-hover">
+    <tr>
+        <th>Kategoriler No</th>
+        <th>Kategoriler Adı</th>
+        <th>Düzenle</th>
+        
+    </tr>
+    <tbody class="table-group-devider"">
+        @foreach (var Category in Model)
+        {
+            <tr>
+                <td>@Category.Id</td>
+                <td>@Category.Name</td>
+                <td> <a class="btn btn-outline-success" href="/Category/Update/@Category.Id">Güncelle</a> 
+                <a class="btn btn-outline-danger" href="/Category/Delete/@Category.Id" >Sil</a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

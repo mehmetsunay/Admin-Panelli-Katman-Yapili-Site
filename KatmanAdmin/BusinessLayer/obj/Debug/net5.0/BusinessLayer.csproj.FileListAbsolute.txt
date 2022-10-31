@@ -1,0 +1,17 @@
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\DataAccess.dll
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\Entity.dll
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\bin\Debug\net5.0\Entity.pdb
+C:\Users\mehme\source\repos\KatmanAdmin\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
